@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# ![rule_icon.png](https://s2.loli.net/2022/07/15/syzgfMehdVEw7pF.png)Hard Pigeon社区条例
 
-You can use the [editor on GitHub](https://github.com/yz-ljc/yz-ljc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 哔哩哔哩站点[[点击打开]](https://space.bilibili.com/592616376)
+## 目录
+#### >第一章 总则
+#### >第二章 一般规定
+##### > 第一节 服内规定
+##### > 第二节 群内规定
+##### > 其他规定
+#### >第三章 关于健康游戏
+#### >第四章 违反规定的处理
+#### >第五章 附则
+### 此规则仅限于Hard Pigeon服务器，不适用于其它非Hard Pigeon团队的服务器
+##### 最终解释权归Hard Pigeon管理所有
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 第一章 总则
+#### 为了保障服务器安全与未成年网络安全，促进服务器稳定发展，创造一个良好的游戏环境，制定本规则
+## 第二章 一般规定
 
-### Markdown
+#### 第一节 游戏内规定
+##### 第一条:请认真阅读以下规定
+##### 第二条:不可使用物品复制获取任何除鞘翅、附魔金苹果、海绵、生电范围以外的任何可再生物品、 矿石、矿石制品、稀有物品等。
+##### 第三条:禁止恶意攻击其它玩家、污蔑他人、恶意破坏他人建筑、机器，使用任何装置或漏洞造成服务器严重卡顿。
+##### 第四条:移动、使用、占用他人私有物品如需使用请经所有者同意。
+##### 第五条:使用任何机械时若发生问题,发现机械、建筑等被人为损坏,请立即向群中说明情况并联系建造者,禁止自行尝试维修。
+##### 第六条;禁止开挂，使用辅助脚本、矿透，恶意利用游戏漏洞 等破坏游戏平衡性的行为。
+##### 第七条;禁止使用除/tick entities、/tick health以外的任何/tick指令。
+##### 第八条;禁止恶意使用辅助类mod的任何功能，使用魔改过的辅助类mod请向管理询问是否可以使用。
+##### 第九条:不允许使用或置换任何分类系统中用于展示和填充漏斗的物品。
+##### 第十条;无论发生什么事情都不要用“游戏而已，开心就好”等作为借口。
+##### 第十一条:非管理员禁止使用回档功能，如需要回档请征求群内玩家和管理员同意。
+##### 第十二条:在服务器中由于不圈地而导致自己物资损失除大型聚落外概不处理。
+##### 第十三条:严禁做出任何有关拉帮结派只为讨个说法的行为，我们将会对此类组织的领导者以及成员都做出相应处罚。在服务器内如有玩家之间的资源矛盾，或是不满某位玩家的所作所为，可以向管理组举报，我们会酌情处理。
+##### 第十四条:领地owner有权向自己正在发展的地区附近的玩家作出一些规定，如玩家不愿服从请自行离开，不要忘记把自己乱放的方块等东西清除。
+#### 第二节 交流群内规定
+##### 第十五条:文明交谈，禁止阴阳怪气、刷屏、恶意辱骂他人,散播广告、谣言、违法违禁、 涉政等信息。
+##### 第十六条:禁止在任何群内讨论他人隐私相关的内容。
+##### 第十七条:群内统计信息、投票等请积极参与。
+##### 第十八条:开玩笑要有个度，严肃事情开玩笑者将对其按群规处理
+##### 第十九条:不得以任何理由引战，进行人身攻击，不要将服务器外的事情扯到服务器内去针对玩家或发动战争，发现后均从严处理。
+##### 第二十条:严禁做出任何对于他人的报复性行为。此类行为只会加剧矛盾，甚至促进小团体的产生。各种势力在服务器里你争我抢，想必也不是大家希望看到的。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 第三章 关于健康游戏
+##### 第二十一条:请自觉控制好自己的游戏时间以及作息时间。
+##### 第二十二条:请你保证在该服务器(包括但不限于社区聊天、游戏内聊天)游戏聊天不会影响你的工作、学习、作息等正常生活。
+### 第四章 违反规定的处理
+#### 游戏内违规的将按照其程度，作出(包括但不限于)以下处理:
 
-```markdown
-Syntax highlighted code block
+| 轻微  | 普通 | 严重 |
+| ----- | ----- | ----- |
+|违规操作撤销|临时封禁|永久封禁|
+|限制活动范围|临时禁言|永久禁言|
+|村庄/聚落除名|临时警告|警告黑历史|
 
-# Header 1
-## Header 2
-### Header 3
+#### 违法社区规定的将按照其程度，作出(包括但不限于)以下处理:
 
-- Bulleted
-- List
+| 轻微  | 普通 | 严重 |
+| ----- | ----- | ----- |
+|警告|禁言1-7天|禁言30天|
+| | |黑名单|
+| | |踢出社区群组|
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 联系我们
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yz-ljc/yz-ljc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[点击这里加入我们的官方QQ群](https://jq.qq.com/?_wv=1027&k=DXkAmbOP)
+##### 服主本人唯一QQ:3199590352
+##### 联系我们: support@hard-pigeon.top
