@@ -16,6 +16,7 @@
 ## 第一章 总则
 #### 为了保障服务器安全与未成年网络安全，促进服务器稳定发展，创造一个良好的游戏环境，制定本规则
 ## 第二章 一般规定
+
 #### 第一节 游戏内规定
 ##### 第一条:请认真阅读以下规定
 ##### 第二条:不可使用物品复制获取任何除鞘翅、附魔金苹果、海绵、生电范围以外的任何可再生物品、 矿石、矿石制品、稀有物品等。
@@ -50,36 +51,16 @@
 |限制活动范围|临时禁言|永久禁言|
 |村庄/聚落除名|临时警告|警告黑历史|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 违法社区规定的将按照其程度，作出(包括但不限于)以下处理
+| 轻微  | 普通 | 严重 |
+| ----- | ----- | ----- |
+|警告|禁言1-7天|禁言30天|
+| | |黑名单|
+| | |踢出社区群组|
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 联系我们
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yz-ljc/yz-ljc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[点击这里加入我们的官方QQ群](https://jq.qq.com/?_wv=1027&k=DXkAmbOP)
+##### 服主本人唯一QQ:3199590352
+##### 联系我们: support@hard-pigeon.top
