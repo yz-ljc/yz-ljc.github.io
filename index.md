@@ -107,7 +107,7 @@ __处罚计量:__
 |法院判决|
 
 ### 申诉
-#### 如果对作出的处罚有疑问，请联系support@Hard-pigeon.top或在游戏中/mail send RainySnowing [举报内容]
+#### 请联系support@Hard-pigeon.top对你的禁令进行申诉或在游戏中/mail send RainySnowing [举报内容]
 
 
 ### 联系我们
